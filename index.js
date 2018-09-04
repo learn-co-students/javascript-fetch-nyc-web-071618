@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function(){
   })
 })
 
-// const token = 'ad74a7e46ebdf1eac525e2a4f0586215b36febb9'
+// const token = 'XXXX'
 // , {
 //   headers: {
 //     Authorization: `token ${token}`
